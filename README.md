@@ -14,8 +14,11 @@ In contemporary business environments, organizations across retail, healthcare, 
 The strategic application of professional data visualization is paramount for modern organizations seeking a competitive advantage through data-driven practices. By translating complex data sets into graphical narratives, decision-makers can achieve the following objectives:
 
 * **Enhanced Comprehension:** Business owners and executives can instantly interpret complex multi-month sales trends and revenue distributions without getting bogged down by raw data tables.
+  
 * **Targeted Optimization:** Marketing departments can visually evaluate and compare the performance and customer acquisition velocities of competing promotional campaigns to allocate advertising budgets more efficiently.
+  
 * **Operational Excellence:** Service managers can closely monitor crucial operational metrics, such as patient volumes, service waiting times, and satisfaction percentages, allowing them to streamline workflows, eliminate bottlenecks, and significantly improve end-user experiences.
+  
 * **Proactive Problem Solving:** Visual tracking allows organizations to spot irregular performance drops early, facilitating timely corrective interventions long before minor issues compound into major financial or operational failures.
 
 ---
@@ -23,8 +26,11 @@ The strategic application of professional data visualization is paramount for mo
 ## Features
 This project incorporates several robust analytical and visual features designed to maximize data clarity and presentation value:
 * **Dynamic Time-Series Tracking:** Employs precise line graphs with customized markers to illustrate chronological performance trajectories over multi-month periods.
+  
 * **Multi-Campaign Comparative Frameworks:** Utilizes multi-line plotting configurations to monitor and contrast competing marketing campaign performances side-by-side within a unified axis space.
+  
 * **Structured Multi-Panel Dashboards:** Leverages advanced grid layouts and subplot grids (`plt.subplots`) to present multiple related operational parameters simultaneously, ensuring cohesive analysis without visual clutter.
+  
 * **High Customization Standards:** Implements fully customized axis labels, descriptive chart titles, distinct color palettes, clear gridlines, data point markers, and descriptive legends to maximize aesthetic appeal and readability.
 
 ---
@@ -188,6 +194,8 @@ Detailed analysis of the generated visualizations yielded several vital business
 
 * **Operational Correlations:** Operational tracking demonstrated that increases in service waiting times directly correlate with temporary dips in client satisfaction scores, proving that workflow efficiency is directly tied to end-user perception.
 
+* **Revenue and Customer Trends:** Revenue patterns mirror customer growth closely, suggesting a strong positive relationship between customer acquisition volume and overall financial performance. Additionally, Product A demonstrated higher monthly sales volume compared to Product B by the final recorded month.
+  
 ### Improvements
 To further enhance the depth, robustness, and commercial value of this project, several future improvements are recommended:
 
